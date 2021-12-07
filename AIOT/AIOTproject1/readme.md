@@ -20,6 +20,12 @@ AIOTproject1
 
 ```
 
+>这里创立了虚拟环境env 设置在/opt/test里面
+>进入 cd /opt/test
+```
+source env/bin/activate
+``` 
+>退出输入**deactivate**
 - [project1VD](#project1vd)
   - [Environment](#environment)
     - [Hardware](#hardware)
